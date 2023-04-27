@@ -5,7 +5,7 @@ import carriersRoutes from '@/router/carriers'
 
 import getRoutePath from '@/helpers/routes'
 
-import HomePage from '@/pages/logistics.vue'
+// import HomePage from '@/pages/logistics.vue'
 
 const routes: RouteRecordRaw[] = [
   {
@@ -18,8 +18,8 @@ const routes: RouteRecordRaw[] = [
     name: 'Logistics',
     meta: {
       layout: 'default'
-    },
-    component: HomePage
+    }
+    // component: HomePage
   },
   ...carriersRoutes,
   {
