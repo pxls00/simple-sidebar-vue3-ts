@@ -1,6 +1,6 @@
 #simple sidebar
 
-Vue-3 + Typescript + Vite
+<h1>Vue-3 + Typescript + Vite</h1>
 
 <b>@ = <u>'.src/'</u><b>
 
