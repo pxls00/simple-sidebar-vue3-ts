@@ -1,4 +1,4 @@
-import createCurrentRoutePath from '@/helpers/createCurrentRoutePath'
+import createCurrentRoutePath from '@/helpers/create-current-route-path'
 /* createCurrentRoutePath creates router that has params */
 
 import type Routes from '@/interfaces/routes'
